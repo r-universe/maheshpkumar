@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bearishTrader"]
 	path = bearishTrader
 	url = https://github.com/cran/bearishTrader
-	shallow = true
-	registered = true
 [submodule "bondAnalyst"]
 	path = bondAnalyst
 	url = https://github.com/cran/bondAnalyst
-	shallow = true
-	registered = true
 [submodule "bullishTrader"]
 	path = bullishTrader
 	url = https://github.com/cran/bullishTrader
-	shallow = true
-	registered = true
 [submodule "butterflyOptions"]
 	path = butterflyOptions
 	url = https://github.com/cran/butterflyOptions
-	shallow = true
-	registered = true
 [submodule "condorOptions"]
 	path = condorOptions
 	url = https://github.com/cran/condorOptions
-	shallow = true
-	registered = true
 [submodule "jadeLizardOptions"]
 	path = jadeLizardOptions
 	url = https://github.com/cran/jadeLizardOptions
-	shallow = true
-	registered = true
 [submodule "stockAnalyst"]
 	path = stockAnalyst
 	url = https://github.com/cran/stockAnalyst
-	shallow = true
-	registered = true
 [submodule "tvmComp"]
 	path = tvmComp
 	url = https://github.com/cran/tvmComp
-	shallow = true
-	registered = true
 [submodule "volatilityTrader"]
 	path = volatilityTrader
 	url = https://github.com/cran/volatilityTrader
-	shallow = true
-	registered = true
